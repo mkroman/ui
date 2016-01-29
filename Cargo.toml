@@ -1,0 +1,8 @@
+[package]
+authors = ["Mikkel Kroman <mk@uplink.io>"]
+license = "Unlicense"
+name = "ui"
+version = "0.1.0"
+
+[dependencies]
+palette = "0.1.1"
